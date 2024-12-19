@@ -1,0 +1,12 @@
+aXA + bXB = XT
+aYA + bYB = YT
+
+
+a = (XT - bXB)/XA
+
+
+YA/XA * (XT - bXB) + bYB = YT
+
+b(YB - XB*YA/XA) = YT - YA*XT/XA
+
+b = (YT - YA*XT/XA)/(YB - XB*YA/XA)
